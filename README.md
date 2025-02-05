@@ -21,7 +21,7 @@ Este ejercicio está pensado para que mejores tus habilidades en diseño y maque
    git checkout -b tu-nombre
    ```
 
-3. **Abre el archivo `index.html` y `styles.css`:**
+3. **Crea los archivos `index.html` y `styles.css`:**
    - Realiza los cambios necesarios para que el diseño del formulario coincida con la imagen proporcionada.
 
 4. **Guarda tus cambios y haz un commit:**
