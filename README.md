@@ -14,7 +14,7 @@ Este ejercicio está pensado para que mejores tus habilidades en diseño y maque
 1. **Clona el repositorio:**
    ```bash
    git clone <URL_DEL_REPOSITORIO>
-   ```
+   ``` 
 
 2. **Crea una nueva rama con tu nombre:**
    ```bash
