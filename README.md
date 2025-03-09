@@ -1,55 +1,60 @@
-﻿# **Tarea: Formulario con HTML y CSS**
+﻿# 🌟 Formulario de Contacto con HTML y CSS
 
-### **Descripción**
-Tu tarea es completar el diseño de un formulario utilizando HTML y CSS para que se asemeje lo más posible a la siguiente imagen:
-
-![Formulario de referencia](./form.png)
-
-Este ejercicio está pensado para que mejores tus habilidades en diseño y maquetación web.
+¡Hola! 👋 Estoy muy emocionada de compartir mi primer proyecto como estudiante de programación: un formulario de contacto diseñado con HTML y CSS. Este proyecto me permitió reforzar mis habilidades en el desarrollo web y dar mis primeros pasos en el manejo de GitHub.
 
 ---
 
-### **Instrucciones:**
+## 📝 Descripción del Proyecto
+Este formulario de contacto es un ejercicio práctico de maquetación web, donde trabajé en la estructura HTML y el diseño CSS para crear una interfaz amigable y atractiva. El objetivo fue replicar un modelo de referencia, prestando atención a los detalles de diseño y la responsividad.
+
+📸 **Vista previa del formulario:**
+![Formulario de referencia](./forfoto.png)
+
+
+---
+
+## 🚀 Tecnologías Utilizadas
+- **HTML5** 🧱: Para la estructura del formulario.
+- **CSS3** 🎨: Para el diseño y la presentación visual.
+- **GitHub** 🌐: Para el versionado y almacenamiento del proyecto.
+
+---
+
+## 🛠 Cómo Usar Este Proyecto
 
 1. **Clona el repositorio:**
    ```bash
    git clone <URL_DEL_REPOSITORIO>
-   ``` 
-
-2. **Crea una nueva rama con tu nombre:**
-   ```bash
-   git checkout -b tu-nombre
    ```
 
-3. **Crea los archivos `index.html` y `styles.css`:**
-   - Realiza los cambios necesarios para que el diseño del formulario coincida con la imagen proporcionada.
-
-4. **Guarda tus cambios y haz un commit:**
+2. **Navega al directorio del proyecto:**
    ```bash
-   git add .
-   git commit -m "Ajustes al diseño del formulario"
+   cd nombre-del-repositorio
    ```
 
-5. **Sube tu rama al repositorio remoto:**
-   ```bash
-   git push origin tu-nombre
-   ```
+3. **Abre el archivo `index.html` en tu navegador:**
 
-6. **Abre un Pull Request:**
-   - Ve al repositorio en GitHub.
-   - Haz clic en "Compare & pull request".
-   - Agrega una descripción breve de tus cambios.
-   - Envía el Pull Request para revisión.
+4. **Explora el diseño y la funcionalidad del formulario.**
 
 ---
 
-### **Puntos Clave:**
-- Usa propiedades de CSS como `flexbox`, `box-shadow`, y `border-radius`.
-- Asegúrate de que el formulario sea responsivo.
-- Presta atención a los detalles del diseño: colores, alineaciones y tipografía.
+## 💡 Aprendizajes y Retos
+- Uso de `flexbox` para el diseño responsivo.
+- Aplicación de estilos como `box-shadow` y `border-radius`.
+- Organización de archivos y buenas prácticas con Git y GitHub.
 
 ---
 
-### **Nota:**
-En el repositorio hay una rama llamada `terminado-by-gonza` donde encontrarás el código ya completado. Puedes usarla como referencia una vez que hayas terminado tu propia versión.
+## 🌱 Sobre Mí
+Soy cocinera, mamá y futura programadora. Cada momento libre lo dedico a aprender y crecer en este mundo de la tecnología, con el sueño de convertirme en una desarrolladora exitosa. 💻❤️
+
+---
+
+## 🔗 Enlaces
+
+- **Conéctate conmigo en LinkedIn:** [Tu perfil de LinkedIn](https://www.linkedin.com/in/teresa-llobell-7080b52bb/)
+
+¡Gracias por visitar mi proyecto! 🚀
+
+
 
